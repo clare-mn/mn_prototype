@@ -1,0 +1,27 @@
+{
+  "name": "mn_gulp",
+  "version": "1.0.0",
+  "description": "gulp for mn dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clare-mn/mn_prototype.git"
+  },
+  "author": "clare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clare-mn/mn_prototype/issues"
+  },
+  "homepage": "https://github.com/clare-mn/mn_prototype#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-ruby-sass": "^2.0.5",
+    "gulp-sass": "^2.1.0"
+  }
+}
